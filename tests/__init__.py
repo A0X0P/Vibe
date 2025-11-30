@@ -1,0 +1,1 @@
+"""Test suite for Vibe Music Player application."""
